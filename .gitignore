@@ -1,0 +1,6 @@
+chromedriver
+*.txt
+test_for_ASIN.ipynb
+*.json
+.ipynb_checkpoints
+.DS_Store
